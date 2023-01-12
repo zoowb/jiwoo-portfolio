@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jiwoo-portfolio/static/css/main.0a3e3b89.css",
+    "main.js": "/jiwoo-portfolio/static/js/main.2d485d5e.js",
+    "static/js/787.abf596fd.chunk.js": "/jiwoo-portfolio/static/js/787.abf596fd.chunk.js",
+    "static/media/Inter-Regular.ttf": "/jiwoo-portfolio/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
+    "index.html": "/jiwoo-portfolio/index.html",
+    "static/media/folder.svg": "/jiwoo-portfolio/static/media/folder.dd241432120b95fd6e085db1ff43f49d.svg",
+    "main.0a3e3b89.css.map": "/jiwoo-portfolio/static/css/main.0a3e3b89.css.map",
+    "main.2d485d5e.js.map": "/jiwoo-portfolio/static/js/main.2d485d5e.js.map",
+    "787.abf596fd.chunk.js.map": "/jiwoo-portfolio/static/js/787.abf596fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a3e3b89.css",
+    "static/js/main.2d485d5e.js"
+  ]
+}
