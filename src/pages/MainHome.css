@@ -2,3 +2,26 @@
   background-color: #9398ff;
   height: 100vh;
 }
+
+.mainHeader {
+  display: flex;
+  padding: 28px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mainHeader .title {
+  font-weight: 700;
+  font-size: 20px;
+  color: #191fac;
+}
+
+.mainHeader .datetime {
+  font-weight: 400;
+  font-size: 20px;
+  color: #191fac;
+}
+
+.mainHeader .datetime .date {
+  margin-right: 20px;
+}
