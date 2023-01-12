@@ -25,3 +25,16 @@
 .mainHeader .datetime .date {
   margin-right: 20px;
 }
+
+.body {
+  display: flex;
+  padding: 10px 90px;
+}
+
+.info {
+  margin-right: 110px;
+}
+
+.career {
+  margin-right: 110px;
+}
