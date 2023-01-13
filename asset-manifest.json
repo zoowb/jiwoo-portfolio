@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/jiwoo-portfolio/static/css/main.b4821068.css",
-    "main.js": "/jiwoo-portfolio/static/js/main.b8547525.js",
+    "main.js": "/jiwoo-portfolio/static/js/main.3704ce6b.js",
     "static/js/787.abf596fd.chunk.js": "/jiwoo-portfolio/static/js/787.abf596fd.chunk.js",
     "static/media/Inter-Regular.ttf": "/jiwoo-portfolio/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
     "index.html": "/jiwoo-portfolio/index.html",
     "static/media/folder.svg": "/jiwoo-portfolio/static/media/folder.921e3c0e6eb3c562df2621b4d41d0d2a.svg",
     "static/media/more.svg": "/jiwoo-portfolio/static/media/more.d90b9c73ccc36c0c2f70a9229b6988a3.svg",
     "main.b4821068.css.map": "/jiwoo-portfolio/static/css/main.b4821068.css.map",
-    "main.b8547525.js.map": "/jiwoo-portfolio/static/js/main.b8547525.js.map",
+    "main.3704ce6b.js.map": "/jiwoo-portfolio/static/js/main.3704ce6b.js.map",
     "787.abf596fd.chunk.js.map": "/jiwoo-portfolio/static/js/787.abf596fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4821068.css",
-    "static/js/main.b8547525.js"
+    "static/js/main.3704ce6b.js"
   ]
 }
