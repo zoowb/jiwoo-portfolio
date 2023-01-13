@@ -20,11 +20,11 @@ const MainHome = () => {
     "Dec",
   ];
   let month = monthText[now.getMonth() + 1] + " ";
-  let date = now.getDate();
+  let date = ("00" + now.getDate()).slice(-2);
   const weekText = ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"];
   let week = weekText[now.getDay()] + " ";
-  let hours = now.getHours();
-  let minutes = now.getMinutes();
+  let hours = ("00" + now.getHours()).slice(-2);
+  let minutes = ("00" + now.getMinutes()).slice(-2);
 
   return (
     <div className="background">
