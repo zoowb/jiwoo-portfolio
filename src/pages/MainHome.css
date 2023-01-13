@@ -28,13 +28,24 @@
 
 .body {
   display: flex;
-  padding: 10px 90px;
+  padding: 40px;
 }
 
 .info {
-  margin-right: 110px;
+  width: 15%;
 }
 
 .career {
-  margin-right: 110px;
+  width: 15%;
+}
+
+.projects {
+  width: 15%;
+}
+
+.memo {
+  display: flex;
+  width: calc(55% - 40px);
+  justify-content: flex-end;
+  align-items: flex-end;
 }
