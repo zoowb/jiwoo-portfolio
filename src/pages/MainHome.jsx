@@ -1,6 +1,7 @@
 import React from "react";
 import "./MainHome.css";
 import { Folder } from "../components/folder";
+import { Memopad } from "../components/memopad";
 
 const MainHome = () => {
   let now = new Date();
@@ -45,6 +46,9 @@ const MainHome = () => {
           <Folder title={"2021_백신접종\n예약 사이트"} />
           <Folder title={"2021_병원동행\n모빌리티 앱"} />
           <Folder title={"2022_중고 옷\n거래 사이트"} />
+        </section>
+        <section className="memo">
+          <Memopad />
         </section>
       </div>
     </div>
