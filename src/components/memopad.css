@@ -1,7 +1,7 @@
 .memopad {
   width: 310px;
   height: 300px;
-  background: #d1d3ff;
+  background: #d1e3ff;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 5px;
   padding: 20px 17px;
@@ -32,9 +32,7 @@
   outline: none;
   background: none;
 
-  font-family: "Inter";
   font-weight: 400;
   font-size: 20px;
-  line-height: 24px;
   color: #000000;
 }

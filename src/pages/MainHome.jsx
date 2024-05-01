@@ -19,9 +19,10 @@ const MainHome = () => {
     "Nov",
     "Dec",
   ];
-  let month = monthText[now.getMonth() + 1] + " ";
-  let date = ("00" + now.getDate()).slice(-2);
   const weekText = ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"];
+
+  let month = monthText[now.getMonth() % 12] + " ";
+  let date = ("00" + now.getDate()).slice(-2);
   let week = weekText[now.getDay()] + " ";
   let hours = ("00" + now.getHours()).slice(-2);
   let minutes = ("00" + now.getMinutes()).slice(-2);
@@ -40,12 +41,12 @@ const MainHome = () => {
           <Folder title={"INTRODUCE"} />
         </section>
         <section className="career">
-          <Folder title={"(주)민트기술\n_인턴"} />
+          <Folder title={"(주)민트기술\n인턴"} />
         </section>
         <section className="projects">
-          <Folder title={"2021_백신접종\n예약 사이트"} />
-          <Folder title={"2021_병원동행\n모빌리티 앱"} />
-          <Folder title={"2022_중고 옷\n거래 사이트"} />
+          <Folder title={"[2021]백신접종\n예약 사이트"} />
+          <Folder title={"[2021]병원동행\n모빌리티 앱"} />
+          <Folder title={"[2022]중고 옷\n거래 사이트"} />
         </section>
         <section className="memo">
           <Memopad />
